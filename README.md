@@ -32,5 +32,4 @@ To get started with building the ETL pipeline, follow the instructions and code 
 Contributions to this repository are welcome. If you find any issues, have suggestions for improvements, or want to add new features, feel free to open a pull request. Together, we can enhance the ETL pipeline and make it more robust and efficient.
 
 ## License
-
-This repository is licensed under the [MIT License](LICENSE). Feel free to use the code and instructions provided here for your projects.
+Feel free to use the code and instructions provided here for your projects.
